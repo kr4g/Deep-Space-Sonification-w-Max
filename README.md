@@ -6,6 +6,8 @@ Corresponding notebooks are found in the Notebooks folder. Several of the code c
 
 Datasets:
 https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data 
+
 https://www.kaggle.com/colearninglounge/predicting-pulsar-starintermediate 
+
 https://www.kaggle.com/mariopasquato/star-cluster-simulations
    
