@@ -12,3 +12,13 @@ https://www.kaggle.com/colearninglounge/predicting-pulsar-starintermediate
 
 https://www.kaggle.com/mariopasquato/star-cluster-simulations
    
+Video Demonstrations:
+
+Exoplanet Detection
+https://youtu.be/pXWgrDe1zhA
+
+Pulsar Candidates
+https://youtu.be/ZNW6Urw8juE
+
+Star Cluster Simulation
+https://youtu.be/Ml5Eyxcj3HY
