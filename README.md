@@ -16,12 +16,21 @@ https://www.kaggle.com/mariopasquato/star-cluster-simulations
 Video Demonstrations:
 
 Exoplanet Detection
+
+![alt text](https://github.com/RyanMillett/Deep-Space-Sonification-w-Max/blob/main/Screenshots/epd_screen.png)
+
 https://youtu.be/pXWgrDe1zhA
 
 Pulsar Candidates
+
+![alt text](https://github.com/RyanMillett/Deep-Space-Sonification-w-Max/blob/main/Screenshots/pc_screen.png)
+
 https://youtu.be/ZNW6Urw8juE
 
 Star Cluster Simulation
+
+![alt text](https://github.com/RyanMillett/Deep-Space-Sonification-w-Max/blob/main/Screenshots/sc_screen.png)
+
 https://youtu.be/Ml5Eyxcj3HY
 
 More information about the project:
