@@ -1,4 +1,5 @@
 # Deep-Space-Sonification-w-Max
+
 Unzip the DATA folder located inside the Notebooks folder.
 In the Patches folder, run the patch called main.maxpat.
 
@@ -22,3 +23,6 @@ https://youtu.be/ZNW6Urw8juE
 
 Star Cluster Simulation
 https://youtu.be/Ml5Eyxcj3HY
+
+More information about the project:
+https://github.com/RyanMillett/Deep-Space-Sonification-w-Max/blob/main/Writeup.pdf
